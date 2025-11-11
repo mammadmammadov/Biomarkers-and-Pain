@@ -1,4 +1,4 @@
-# Biomarkers-and-Pain 🧬
+# Biomarkers and Pain 🧬
 
 ## Running the Code
 
